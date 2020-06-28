@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Gamelogged/static/css/main.9771c248.chunk.css",
-    "main.js": "/Gamelogged/static/js/main.790666e3.chunk.js",
-    "main.js.map": "/Gamelogged/static/js/main.790666e3.chunk.js.map",
+    "main.js": "/Gamelogged/static/js/main.a9de54a6.chunk.js",
+    "main.js.map": "/Gamelogged/static/js/main.a9de54a6.chunk.js.map",
     "runtime-main.js": "/Gamelogged/static/js/runtime-main.ffd1e65e.js",
     "runtime-main.js.map": "/Gamelogged/static/js/runtime-main.ffd1e65e.js.map",
     "static/js/2.5508beb0.chunk.js": "/Gamelogged/static/js/2.5508beb0.chunk.js",
     "static/js/2.5508beb0.chunk.js.map": "/Gamelogged/static/js/2.5508beb0.chunk.js.map",
     "index.html": "/Gamelogged/index.html",
-    "precache-manifest.f59c38e2ce27f97454fd1199ab459a7a.js": "/Gamelogged/precache-manifest.f59c38e2ce27f97454fd1199ab459a7a.js",
+    "precache-manifest.9202e7ec08066a076a4e4e8b642e9a86.js": "/Gamelogged/precache-manifest.9202e7ec08066a076a4e4e8b642e9a86.js",
     "service-worker.js": "/Gamelogged/service-worker.js",
     "static/css/main.9771c248.chunk.css.map": "/Gamelogged/static/css/main.9771c248.chunk.css.map",
     "static/js/2.5508beb0.chunk.js.LICENSE.txt": "/Gamelogged/static/js/2.5508beb0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ffd1e65e.js",
     "static/js/2.5508beb0.chunk.js",
     "static/css/main.9771c248.chunk.css",
-    "static/js/main.790666e3.chunk.js"
+    "static/js/main.a9de54a6.chunk.js"
   ]
 }
