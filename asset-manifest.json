@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Gamelogged/static/css/main.f9567403.chunk.css",
-    "main.js": "/Gamelogged/static/js/main.2dc818c8.chunk.js",
-    "main.js.map": "/Gamelogged/static/js/main.2dc818c8.chunk.js.map",
+    "main.css": "/Gamelogged/static/css/main.9771c248.chunk.css",
+    "main.js": "/Gamelogged/static/js/main.70c1e100.chunk.js",
+    "main.js.map": "/Gamelogged/static/js/main.70c1e100.chunk.js.map",
     "runtime-main.js": "/Gamelogged/static/js/runtime-main.ffd1e65e.js",
     "runtime-main.js.map": "/Gamelogged/static/js/runtime-main.ffd1e65e.js.map",
     "static/js/2.5508beb0.chunk.js": "/Gamelogged/static/js/2.5508beb0.chunk.js",
     "static/js/2.5508beb0.chunk.js.map": "/Gamelogged/static/js/2.5508beb0.chunk.js.map",
     "index.html": "/Gamelogged/index.html",
-    "precache-manifest.923579cf075f2300a6e2463b1be52fdf.js": "/Gamelogged/precache-manifest.923579cf075f2300a6e2463b1be52fdf.js",
+    "precache-manifest.cc2cb067b2e61f77e1ed443a5e81e800.js": "/Gamelogged/precache-manifest.cc2cb067b2e61f77e1ed443a5e81e800.js",
     "service-worker.js": "/Gamelogged/service-worker.js",
-    "static/css/main.f9567403.chunk.css.map": "/Gamelogged/static/css/main.f9567403.chunk.css.map",
+    "static/css/main.9771c248.chunk.css.map": "/Gamelogged/static/css/main.9771c248.chunk.css.map",
     "static/js/2.5508beb0.chunk.js.LICENSE.txt": "/Gamelogged/static/js/2.5508beb0.chunk.js.LICENSE.txt",
     "static/media/Home.scss": "/Gamelogged/static/media/suikoden-2-box-art-crop_1280.0.0.c951b213.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ffd1e65e.js",
     "static/js/2.5508beb0.chunk.js",
-    "static/css/main.f9567403.chunk.css",
-    "static/js/main.2dc818c8.chunk.js"
+    "static/css/main.9771c248.chunk.css",
+    "static/js/main.70c1e100.chunk.js"
   ]
 }
