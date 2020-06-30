@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f258e5649db77604759ae60bfd244beb",
+    "revision": "d18283895baf46374aa79124de156b15",
     "url": "/Gamelogged/index.html"
   },
   {
-    "revision": "3201f0d6ecf20e813efd",
+    "revision": "32cafabba5486976f14d",
     "url": "/Gamelogged/static/css/main.9771c248.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gamelogged/static/js/2.b74597d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3201f0d6ecf20e813efd",
-    "url": "/Gamelogged/static/js/main.5ba582e9.chunk.js"
+    "revision": "32cafabba5486976f14d",
+    "url": "/Gamelogged/static/js/main.01d0de90.chunk.js"
   },
   {
     "revision": "2e23df4fafa7d1fda9b0",
