@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.4b1e309c.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.b5ea915a.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.b5ea915a.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.642a57ba.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.642a57ba.js.map",
-    "static/js/2.47f14b7e.chunk.js": "http://localhost:3000/static/js/2.47f14b7e.chunk.js",
-    "static/js/2.47f14b7e.chunk.js.map": "http://localhost:3000/static/js/2.47f14b7e.chunk.js.map",
-    "index.html": "http://localhost:3000/index.html",
-    "precache-manifest.5792629a0313e1773ac737f220dba7e7.js": "http://localhost:3000/precache-manifest.5792629a0313e1773ac737f220dba7e7.js",
-    "service-worker.js": "http://localhost:3000/service-worker.js",
-    "static/css/main.4b1e309c.chunk.css.map": "http://localhost:3000/static/css/main.4b1e309c.chunk.css.map",
-    "static/js/2.47f14b7e.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.47f14b7e.chunk.js.LICENSE.txt",
-    "static/media/Home.scss": "http://localhost:3000/static/media/suikoden-2-box-art-crop_1280.0.0.c951b213.jpg"
+    "main.css": "/Gamelogged/static/css/main.9771c248.chunk.css",
+    "main.js": "/Gamelogged/static/js/main.9c2f07fc.chunk.js",
+    "main.js.map": "/Gamelogged/static/js/main.9c2f07fc.chunk.js.map",
+    "runtime-main.js": "/Gamelogged/static/js/runtime-main.ffd1e65e.js",
+    "runtime-main.js.map": "/Gamelogged/static/js/runtime-main.ffd1e65e.js.map",
+    "static/js/2.47f14b7e.chunk.js": "/Gamelogged/static/js/2.47f14b7e.chunk.js",
+    "static/js/2.47f14b7e.chunk.js.map": "/Gamelogged/static/js/2.47f14b7e.chunk.js.map",
+    "index.html": "/Gamelogged/index.html",
+    "precache-manifest.e75e0666976eed8ae543e27ea9b53160.js": "/Gamelogged/precache-manifest.e75e0666976eed8ae543e27ea9b53160.js",
+    "service-worker.js": "/Gamelogged/service-worker.js",
+    "static/css/main.9771c248.chunk.css.map": "/Gamelogged/static/css/main.9771c248.chunk.css.map",
+    "static/js/2.47f14b7e.chunk.js.LICENSE.txt": "/Gamelogged/static/js/2.47f14b7e.chunk.js.LICENSE.txt",
+    "static/media/Home.scss": "/Gamelogged/static/media/suikoden-2-box-art-crop_1280.0.0.c951b213.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.642a57ba.js",
+    "static/js/runtime-main.ffd1e65e.js",
     "static/js/2.47f14b7e.chunk.js",
-    "static/css/main.4b1e309c.chunk.css",
-    "static/js/main.b5ea915a.chunk.js"
+    "static/css/main.9771c248.chunk.css",
+    "static/js/main.9c2f07fc.chunk.js"
   ]
 }
