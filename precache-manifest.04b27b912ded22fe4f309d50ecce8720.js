@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "105321a72a594c70ce1fa0f49c637136",
+    "revision": "a271c15fe10bbbc978c265a29423c479",
     "url": "/Gamelogged/index.html"
   },
   {

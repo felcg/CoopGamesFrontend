@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Gamelogged/precache-manifest.e75e0666976eed8ae543e27ea9b53160.js"
+  "/Gamelogged/precache-manifest.04b27b912ded22fe4f309d50ecce8720.js"
 );
 
 self.addEventListener('message', (event) => {
