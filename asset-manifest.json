@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Gamelogged/static/css/main.9771c248.chunk.css",
-    "main.js": "/Gamelogged/static/js/main.01d0de90.chunk.js",
-    "main.js.map": "/Gamelogged/static/js/main.01d0de90.chunk.js.map",
-    "runtime-main.js": "/Gamelogged/static/js/runtime-main.ffd1e65e.js",
-    "runtime-main.js.map": "/Gamelogged/static/js/runtime-main.ffd1e65e.js.map",
-    "static/js/2.b74597d6.chunk.js": "/Gamelogged/static/js/2.b74597d6.chunk.js",
-    "static/js/2.b74597d6.chunk.js.map": "/Gamelogged/static/js/2.b74597d6.chunk.js.map",
-    "index.html": "/Gamelogged/index.html",
-    "precache-manifest.74a28739787805048d8dff4ed65d115d.js": "/Gamelogged/precache-manifest.74a28739787805048d8dff4ed65d115d.js",
-    "service-worker.js": "/Gamelogged/service-worker.js",
-    "static/css/main.9771c248.chunk.css.map": "/Gamelogged/static/css/main.9771c248.chunk.css.map",
-    "static/js/2.b74597d6.chunk.js.LICENSE.txt": "/Gamelogged/static/js/2.b74597d6.chunk.js.LICENSE.txt",
-    "static/media/Home.scss": "/Gamelogged/static/media/suikoden-2-box-art-crop_1280.0.0.c951b213.jpg"
+    "main.css": "/static/css/main.2dd5183d.chunk.css",
+    "main.js": "/static/js/main.531c0004.chunk.js",
+    "main.js.map": "/static/js/main.531c0004.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.597b9150.js",
+    "runtime-main.js.map": "/static/js/runtime-main.597b9150.js.map",
+    "static/js/2.e89b7bab.chunk.js": "/static/js/2.e89b7bab.chunk.js",
+    "static/js/2.e89b7bab.chunk.js.map": "/static/js/2.e89b7bab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c87e26d57b8ff9279365af58c8ca501e.js": "/precache-manifest.c87e26d57b8ff9279365af58c8ca501e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2dd5183d.chunk.css.map": "/static/css/main.2dd5183d.chunk.css.map",
+    "static/js/2.e89b7bab.chunk.js.LICENSE.txt": "/static/js/2.e89b7bab.chunk.js.LICENSE.txt",
+    "static/media/Home.scss": "/static/media/suikoden-2-box-art-crop_1280.0.0.c951b213.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffd1e65e.js",
-    "static/js/2.b74597d6.chunk.js",
-    "static/css/main.9771c248.chunk.css",
-    "static/js/main.01d0de90.chunk.js"
+    "static/js/runtime-main.597b9150.js",
+    "static/js/2.e89b7bab.chunk.js",
+    "static/css/main.2dd5183d.chunk.css",
+    "static/js/main.531c0004.chunk.js"
   ]
 }
